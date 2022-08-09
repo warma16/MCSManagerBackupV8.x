@@ -1,0 +1,39 @@
+{
+    "__filename__": "./server/mohist.json",
+    "name": "mohist",
+    "createDate": "2021-11-20 9:28:05",
+    "lastDate": "2021-11-21 13:23:31",
+    "timeLimitDate": "",
+    "ie": "GBK",
+    "oe": "GBK",
+    "autoRestart": false,
+    "autoStart": false,
+    "schedule": [],
+    "dockerConfig": {
+        "dockerCommand": "docker run -i ${xmx} -v ${serverpath}:/mcsd/ ${ports} ${imagename} ${commande}",
+        "dockerImageName": "mcsd",
+        "dockerXmx": "",
+        "dockerPorts": "",
+        "isDocker": false
+    },
+    "mcpingConfig": {
+        "mcpingName": "",
+        "mcpingHost": "",
+        "mcpingPort": "",
+        "mcpingMotd": ""
+    },
+    "addCmd": [
+        ""
+    ],
+    "java": "java",
+    "jarName": "mohist-1.16.5-853-server.jar",
+    "Xmx": "",
+    "Xms": "",
+    "cwd": "./server/server_core/mohist",
+    "highCommande": "java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui",
+    "stopCommand": "",
+    "run": true,
+    "currentPlayers": "0",
+    "maxPlayers": "20",
+    "serverName": "mohist"
+}

@@ -1,0 +1,23 @@
+2021-11-05T23:35:33.851 INFO 控制面板正在启动中... 
+2021-11-05T23:35:33.976 INFO OnlineFs - 正在初始化文件管理路由与中间件 
+2021-11-05T23:35:33.991 INFO Module - 正在初始化用户管理模块
+2021-11-05T23:35:34.007 INFO Module - 正在初始化服务端管理模块
+2021-11-05T23:35:34.007 INFO Module - 正在初始化计划任务模块
+2021-11-05T23:35:34.023 ERROR 错误报告:
+2021-11-05T23:35:34.023 ERROR Error: listen EADDRINUSE: address already in use :::23333
+    at Server.setupListenHandle [as _listen2] (net.js:1309:16)
+    at listenInCluster (net.js:1357:12)
+    at Server.listen (net.js:1445:7)
+    at Function.serverListen [as listen] (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\express-ws\lib\index.js:42:40)
+    at initializationProm (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\app.js:277:7)
+    at Object.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\app.js:291:3)
+    at Module._compile (internal/modules/cjs/loader.js:1157:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1177:10)
+    at Module.load (internal/modules/cjs/loader.js:1001:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:900:14) {
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 23333
+}

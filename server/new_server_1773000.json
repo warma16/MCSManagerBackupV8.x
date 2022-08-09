@@ -1,0 +1,39 @@
+{
+    "__filename__": "./server/new_server_1773000.json",
+    "name": "new_server_1773000",
+    "createDate": "2021-10-29 20:50:22",
+    "lastDate": "2021-11-21 11:11:30",
+    "timeLimitDate": "",
+    "ie": "GBK",
+    "oe": "GBK",
+    "autoRestart": false,
+    "autoStart": false,
+    "schedule": [],
+    "dockerConfig": {
+        "dockerCommand": "docker run -i ${xmx} -v ${serverpath}:/mcsd/ ${ports} ${imagename} ${commande}",
+        "dockerImageName": "mcsd",
+        "dockerXmx": "",
+        "dockerPorts": "",
+        "isDocker": false
+    },
+    "mcpingConfig": {
+        "mcpingName": "",
+        "mcpingHost": "",
+        "mcpingPort": "",
+        "mcpingMotd": ""
+    },
+    "addCmd": [
+        ""
+    ],
+    "java": "java",
+    "jarName": "minecraft_server.1.16.5.jar",
+    "Xmx": "",
+    "Xms": "",
+    "cwd": "./server/server_core/new_server_1773000",
+    "highCommande": "java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui",
+    "stopCommand": "",
+    "run": false,
+    "currentPlayers": "--",
+    "maxPlayers": "--",
+    "serverName": "new_server_1773000"
+}

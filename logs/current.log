@@ -1,0 +1,1264 @@
+2021-11-19T18:30:16.115 INFO 控制面板正在启动中... 
+2021-11-19T18:30:17.053 INFO OnlineFs - 正在初始化文件管理路由与中间件 
+2021-11-19T18:30:17.118 INFO Module - 正在初始化用户管理模块
+2021-11-19T18:30:17.177 INFO Module - 正在初始化服务端管理模块
+2021-11-19T18:30:17.192 INFO Module - 正在初始化计划任务模块
+2021-11-19T18:30:17.243 INFO HTTP - HTTP 模块监听: [ http://[33m127.0.0.1[39m:23333 ]
+2021-11-19T18:30:17.243 INFO 配置文件: property.js 文件
+2021-11-19T18:30:17.243 INFO 文档参阅: https://github.com/suwings/mcsmanager
+2021-11-19T18:30:17.243 INFO 控制面板已经启动
+2021-11-19T18:36:06.795 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-19T18:57:54.152 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-19T18:58:00.105 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T18:58:00.309 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T18:58:00.309 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:00:36.969 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:03:58.978 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:03:59.181 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:03:59.181 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:04:32.868 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:06:11.211 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:06:11.430 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:06:11.430 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:07:14.887 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:07:37.230 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:07:37.412 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:07:37.413 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:08:32.759 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:10:17.058 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:10:17.245 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:10:17.245 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:10:45.501 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:11:10.219 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:11:10.392 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:11:10.392 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:11:45.501 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:13:45.214 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:13:45.386 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:13:45.386 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:14:12.640 INFO 用户 #ylkawa 建立 inori 用户 
+2021-11-19T19:15:36.386 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:17:08.677 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:17:09.333 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:17:09.333 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:17:26.020 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:18:15.911 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:18:16.208 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:18:16.208 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:18:43.880 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:19:03.997 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:19:04.325 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:19:04.325 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:19:39.872 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:19:42.184 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:19:42.481 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:19:42.481 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:20:01.266 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:20:34.328 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:20:34.516 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:20:34.516 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:20:49.395 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:21:09.107 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:21:09.294 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:21:09.294 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:21:25.373 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:21:38.779 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:21:38.935 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:21:38.935 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:21:54.031 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:22:07.062 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:22:07.250 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:22:07.266 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:22:28.187 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:22:28.640 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:22:28.828 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:22:28.828 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:22:45.929 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:23:05.897 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:23:06.132 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:23:06.132 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:23:16.647 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:23:17.132 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:23:17.335 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:23:17.351 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:23:50.880 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:23:50.989 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:23:50.989 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:24:24.894 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:24:42.467 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:24:42.561 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T19:24:42.561 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:33:47.891 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-19T19:33:47.891 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:34:53.070 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-19T19:34:53.074 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T19:49:37.546 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-19T19:49:37.546 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-19T19:49:38.468 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T19:49:38.640 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ GTE1lq2CUoavNuV9vMZMv1Hwiz3GYJTC ] 
+2021-11-19T19:49:38.640 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T19:51:38.078 INFO 用户  #ylkawa  正在启动  new_server_1773000  服务端实例... 
+2021-11-19T19:51:38.093 INFO Minecraft Server start - new_server_1773000
+2021-11-19T19:51:38.093 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-19T19:51:38.093 INFO ------------------------------- 
+2021-11-19T19:51:38.093 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-19T19:51:38.093 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-19T19:51:38.093 INFO ------------------------------- 
+2021-11-19T19:51:38.344 INFO [new_server_1773000] >>> 进程创建 
+2021-11-19T20:01:39.343 INFO 用户 inori 正在尝试登录... 
+2021-11-19T20:01:39.348 INFO [ Login ] 用户: inori 密匙正确 准许登录 
+2021-11-19T20:01:53.534 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:01:55.739 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:01:55.744 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:03:00.482 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:03:30.709 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:04:27.828 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:04:37.648 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:04:37.653 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:04:48.226 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:05:20.485 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:05:55.861 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:05:59.097 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:05:59.101 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:06:03.941 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:06:34.095 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:07:12.489 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:07:14.716 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:07:14.720 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:07:17.303 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:07:47.463 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:08:18.509 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:08:23.630 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:08:23.635 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:08:26.228 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:09:09.628 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:09:23.188 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:09:25.034 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:09:25.038 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:09:27.552 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:11:06.697 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:12:32.276 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-19T20:12:32.281 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T20:13:00.604 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:13:10.560 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:13:10.564 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:13:22.464 INFO [new_server_1773000] >>> 准许用户 inori 控制台监听 
+2021-11-19T20:14:46.117 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:15:36.479 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:15:39.180 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:15:39.185 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T20:16:10.397 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T20:54:42.851 INFO [ Token ] 用户  inori  请求更新令牌 | 准许 
+2021-11-19T20:54:44.101 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 5qsLIjo_hL9cQHl4tXsm3Zmcj-nAPuKv ] 
+2021-11-19T20:54:44.105 INFO [ WebSocket INIT ]  用户: inori 与服务器建立链接 
+2021-11-19T21:11:24.147 INFO [ WebSocket HBPackage ] 用户 inori 长时间未响应心跳包 | 已自动断开 
+2021-11-19T21:11:24.153 INFO [ WebSocket CLOSE ] 用户 inori 已经断开链接 
+2021-11-19T22:05:07.265 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T22:05:07.460 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ GTE1lq2CUoavNuV9vMZMv1Hwiz3GYJTC ] 
+2021-11-19T22:05:07.461 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T22:05:31.935 INFO [Online Fs] 用户 #ylkawa 访问服务器 new_server_1773000 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\new_server_1773000 
+2021-11-19T22:07:01.274 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T22:10:23.437 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T22:10:23.603 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ GTE1lq2CUoavNuV9vMZMv1Hwiz3GYJTC ] 
+2021-11-19T22:10:23.603 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T22:10:26.157 INFO [Online Fs] 用户 #ylkawa 访问服务器 new_server_1773000 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\new_server_1773000 
+2021-11-19T22:10:32.110 INFO [new_server_1773000] >>> 进程退出 
+2021-11-19T22:34:29.737 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-19T22:34:32.412 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T22:40:40.561 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-19T22:40:40.733 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ GTE1lq2CUoavNuV9vMZMv1Hwiz3GYJTC ] 
+2021-11-19T22:40:40.733 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-19T23:06:54.486 INFO [ Token ] 未登录用户  #ylkawa  请求更新令牌 | 已经阻止 
+2021-11-19T23:06:54.595 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ yot74YHyt5tEqchOGccfUOUchv04Egsc ] 
+2021-11-19T23:06:54.595 WARN 错误令牌的 WS 尝试建立链接 | 已经阻止
+2021-11-19T23:06:54.595 WARN 用户值:   令牌值: Vamt6ta2e833a6faff46b9a198ba9bded204b9
+2021-11-19T23:09:21.772 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-19T23:09:21.772 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-19T23:59:59.012 INFO 自动更新新闻动态与最新消息
+2021-11-20T00:00:12.258 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T00:00:12.268 INFO [ Login ] 用户: #ylkawa 密匙错误 拒绝登录 
+2021-11-20T00:00:17.332 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T00:00:17.334 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T00:00:17.703 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T00:00:17.723 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ xTknDhScoWj6phpDXiQCIgmC6yNanytW ] 
+2021-11-20T00:00:17.746 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T00:01:26.481 INFO [ 文件上传 ] 用户 #ylkawa 上传文件到 ./server/server_core/new_server_7623000 
+2021-11-20T00:01:47.057 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T00:01:47.075 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ xTknDhScoWj6phpDXiQCIgmC6yNanytW ] 
+2021-11-20T00:01:47.077 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T00:02:12.987 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T00:02:31.953 INFO 用户  #ylkawa  正在启动  new_server_7623000  服务端实例... 
+2021-11-20T00:02:31.954 INFO Minecraft Server start - new_server_7623000
+2021-11-20T00:02:31.955 INFO 服务器 [ new_server_7623000 ] 启动进程: 
+2021-11-20T00:02:31.955 INFO ------------------------------- 
+2021-11-20T00:02:31.955 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-20T00:02:31.956 INFO 根: ./server/server_core/new_server_7623000 
+2021-11-20T00:02:31.956 INFO ------------------------------- 
+2021-11-20T00:02:32.189 INFO [new_server_7623000] >>> 进程创建 
+2021-11-20T00:02:36.320 INFO [new_server_7623000] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T00:06:40.351 INFO [new_server_7623000] >>> 进程退出 
+2021-11-20T00:10:57.498 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T00:33:17.291 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T00:33:17.292 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T01:15:38.809 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T01:15:38.809 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T01:15:39.528 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T01:15:39.684 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ GTE1lq2CUoavNuV9vMZMv1Hwiz3GYJTC ] 
+2021-11-20T01:15:39.684 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T01:17:15.074 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T08:00:45.991 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T08:00:45.993 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T08:00:46.373 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T08:00:46.400 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 51O7Ij8FF-fY0GmGMC-xz6OwQo7kcOZQ ] 
+2021-11-20T08:00:46.414 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T08:01:03.936 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:01:03.937 INFO Minecraft Server start - plcgserver
+2021-11-20T08:01:03.938 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:01:03.938 INFO ------------------------------- 
+2021-11-20T08:01:03.939 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-20T08:01:03.939 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:01:03.939 INFO ------------------------------- 
+2021-11-20T08:01:04.142 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:01:06.977 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:01:36.958 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:12:23.302 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T08:12:23.302 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T08:17:26.944 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T08:17:26.944 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T08:17:27.678 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T08:17:27.834 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T08:17:27.834 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T08:19:12.315 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:19:12.315 INFO Minecraft Server start - plcgserver
+2021-11-20T08:19:12.331 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:19:12.331 INFO ------------------------------- 
+2021-11-20T08:19:12.331 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-20T08:19:12.331 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:19:12.331 INFO ------------------------------- 
+2021-11-20T08:19:12.487 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:19:16.298 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:20:06.966 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:20:27.664 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:20:27.665 INFO Minecraft Server start - plcgserver
+2021-11-20T08:20:27.665 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:20:27.666 INFO ------------------------------- 
+2021-11-20T08:20:27.668 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-20T08:20:27.668 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:20:27.669 INFO ------------------------------- 
+2021-11-20T08:20:27.674 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:22:38.494 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:23:08.791 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:23:08.822 INFO [Online Fs] 用户 #ylkawa 访问服务器 plcgserver 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\plcgserver\ 
+2021-11-20T08:25:27.538 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:25:27.538 INFO Minecraft Server start - plcgserver
+2021-11-20T08:25:27.538 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:25:27.538 INFO ------------------------------- 
+2021-11-20T08:25:27.538 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-20T08:25:27.538 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:25:27.538 INFO ------------------------------- 
+2021-11-20T08:25:27.538 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:25:32.914 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:25:43.967 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:27:53.399 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T08:27:53.556 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T08:27:53.558 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T08:28:09.713 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:28:19.166 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:28:19.166 INFO Minecraft Server start - plcgserver
+2021-11-20T08:28:19.166 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:28:19.166 INFO ------------------------------- 
+2021-11-20T08:28:19.166 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:28:19.166 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:28:19.166 INFO ------------------------------- 
+2021-11-20T08:28:19.166 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:28:23.384 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:28:35.197 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:28:51.650 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:28:51.650 INFO Minecraft Server start - plcgserver
+2021-11-20T08:28:51.650 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:28:51.650 INFO ------------------------------- 
+2021-11-20T08:28:51.650 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:28:51.650 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:28:51.650 INFO ------------------------------- 
+2021-11-20T08:28:51.650 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:28:55.645 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:29:39.222 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:29:39.222 INFO Minecraft Server start - plcgserver
+2021-11-20T08:29:39.222 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:29:39.222 INFO ------------------------------- 
+2021-11-20T08:29:39.222 INFO 自定义参数启动:  "C:\Program Files\Java\jdk-11.0.12\bin\java.exe" -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:29:39.222 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:29:39.222 INFO ------------------------------- 
+2021-11-20T08:29:39.222 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:29:39.222 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:29:39.222 ERROR Error: spawn "C:\Program ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn "C:\\Program',
+  path: '"C:\\Program',
+  spawnargs: [
+    'Files\\Java\\jdk-11.0.12\\bin\\java.exe"',
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:29:39.269 ERROR 错误报告:
+2021-11-20T08:29:39.269 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:29:41.347 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:29:41.347 INFO Minecraft Server start - plcgserver
+2021-11-20T08:29:41.347 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:29:41.347 INFO ------------------------------- 
+2021-11-20T08:29:41.347 INFO 自定义参数启动:  "C:\Program Files\Java\jdk-11.0.12\bin\java.exe" -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:29:41.347 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:29:41.347 INFO ------------------------------- 
+2021-11-20T08:29:41.347 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:29:41.347 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:29:41.347 ERROR Error: spawn "C:\Program ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn "C:\\Program',
+  path: '"C:\\Program',
+  spawnargs: [
+    'Files\\Java\\jdk-11.0.12\\bin\\java.exe"',
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:29:41.347 ERROR 错误报告:
+2021-11-20T08:29:41.347 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:29:42.972 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:29:42.972 INFO Minecraft Server start - plcgserver
+2021-11-20T08:29:42.972 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:29:42.972 INFO ------------------------------- 
+2021-11-20T08:29:42.972 INFO 自定义参数启动:  "C:\Program Files\Java\jdk-11.0.12\bin\java.exe" -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:29:42.972 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:29:42.972 INFO ------------------------------- 
+2021-11-20T08:29:42.972 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:29:42.972 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:29:42.972 ERROR Error: spawn "C:\Program ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn "C:\\Program',
+  path: '"C:\\Program',
+  spawnargs: [
+    'Files\\Java\\jdk-11.0.12\\bin\\java.exe"',
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:29:42.972 ERROR 错误报告:
+2021-11-20T08:29:42.972 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:04.213 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:04.229 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:04.229 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:04.229 INFO ------------------------------- 
+2021-11-20T08:35:04.229 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:04.229 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:04.229 INFO ------------------------------- 
+2021-11-20T08:35:04.229 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:04.229 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:04.229 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:04.229 ERROR 错误报告:
+2021-11-20T08:35:04.229 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:05.432 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:05.432 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:05.432 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:05.432 INFO ------------------------------- 
+2021-11-20T08:35:05.432 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:05.432 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:05.432 INFO ------------------------------- 
+2021-11-20T08:35:05.432 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:05.432 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:05.432 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:05.432 ERROR 错误报告:
+2021-11-20T08:35:05.432 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:05.604 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:05.604 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:05.604 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:05.604 INFO ------------------------------- 
+2021-11-20T08:35:05.604 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:05.604 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:05.604 INFO ------------------------------- 
+2021-11-20T08:35:05.604 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:05.604 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:05.604 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:05.604 ERROR 错误报告:
+2021-11-20T08:35:05.604 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:05.760 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:05.760 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:05.760 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:05.760 INFO ------------------------------- 
+2021-11-20T08:35:05.760 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:05.760 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:05.760 INFO ------------------------------- 
+2021-11-20T08:35:05.760 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:05.760 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:05.760 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:05.760 ERROR 错误报告:
+2021-11-20T08:35:05.760 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:05.916 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:05.916 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:05.916 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:05.916 INFO ------------------------------- 
+2021-11-20T08:35:05.916 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:05.916 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:05.916 INFO ------------------------------- 
+2021-11-20T08:35:05.916 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:05.932 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:05.932 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:05.932 ERROR 错误报告:
+2021-11-20T08:35:05.932 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:31.620 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:35:32.416 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:32.416 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:32.416 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:32.416 INFO ------------------------------- 
+2021-11-20T08:35:32.416 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:32.416 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:32.416 INFO ------------------------------- 
+2021-11-20T08:35:32.416 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:32.416 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:32.416 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:32.416 ERROR 错误报告:
+2021-11-20T08:35:32.416 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:35.813 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:35.814 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:35.815 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:35.815 INFO ------------------------------- 
+2021-11-20T08:35:35.815 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:35.816 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:35.816 INFO ------------------------------- 
+2021-11-20T08:35:35.818 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:35.818 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:35.819 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:35.820 ERROR 错误报告:
+2021-11-20T08:35:35.820 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:36.212 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:36.213 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:36.213 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:36.214 INFO ------------------------------- 
+2021-11-20T08:35:36.214 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:36.214 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:36.215 INFO ------------------------------- 
+2021-11-20T08:35:36.217 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:36.217 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:36.218 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:36.219 ERROR 错误报告:
+2021-11-20T08:35:36.219 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:36.389 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:36.390 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:36.390 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:36.390 INFO ------------------------------- 
+2021-11-20T08:35:36.391 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:36.392 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:36.392 INFO ------------------------------- 
+2021-11-20T08:35:36.395 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:36.395 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:36.396 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:36.397 ERROR 错误报告:
+2021-11-20T08:35:36.398 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:36.564 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:36.564 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:36.566 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:36.566 INFO ------------------------------- 
+2021-11-20T08:35:36.567 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:36.567 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:36.568 INFO ------------------------------- 
+2021-11-20T08:35:36.570 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:36.570 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:36.571 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:36.573 ERROR 错误报告:
+2021-11-20T08:35:36.573 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:35:36.733 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:35:36.734 INFO Minecraft Server start - plcgserver
+2021-11-20T08:35:36.734 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:35:36.734 INFO ------------------------------- 
+2021-11-20T08:35:36.735 INFO 自定义参数启动:  %java11% -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:35:36.735 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:35:36.736 INFO ------------------------------- 
+2021-11-20T08:35:36.738 ERROR 服务端进程启动失败，建议检查启动命令与参数是否正确，pid:
+2021-11-20T08:35:36.739 ERROR 服务器运行时异常,建议检查配置与环境
+2021-11-20T08:35:36.739 ERROR Error: spawn %java11% ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:267:19)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  errno: 'ENOENT',
+  code: 'ENOENT',
+  syscall: 'spawn %java11%',
+  path: '%java11%',
+  spawnargs: [
+    '-Xmx2048M',
+    '-Xms2048M',
+    '-javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil',
+    '-jar',
+    'forge-1.16.5-36.2.9.jar',
+    'nogui'
+  ]
+}
+2021-11-20T08:35:36.740 ERROR 错误报告:
+2021-11-20T08:35:36.741 ERROR TypeError: Cannot read property 'pid' of undefined
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\core\Process\BaseMcserver.js:301:107)
+    at ChildProcess.emit (events.js:321:20)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:273:12)
+    at onErrorNT (internal/child_process.js:469:16)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2021-11-20T08:36:01.073 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:36:01.073 INFO Minecraft Server start - plcgserver
+2021-11-20T08:36:01.073 INFO 服务器 [ plcgserver ] 启动进程: 
+2021-11-20T08:36:01.073 INFO ------------------------------- 
+2021-11-20T08:36:01.073 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui 
+2021-11-20T08:36:01.073 INFO 根: ./server/server_core/plcgserver/ 
+2021-11-20T08:36:01.073 INFO ------------------------------- 
+2021-11-20T08:36:01.245 INFO [plcgserver] >>> 进程创建 
+2021-11-20T08:36:02.197 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:36:04.072 INFO 用户  #ylkawa  正在启动  plcgserver  服务端实例... 
+2021-11-20T08:36:05.275 INFO [plcgserver] >>> 进程退出 
+2021-11-20T08:41:11.933 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T08:41:11.933 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T08:45:54.590 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T08:45:54.590 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T08:54:51.751 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T08:54:51.907 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T08:54:51.907 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T08:54:52.173 INFO [plcgserver] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T08:55:41.355 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T08:55:41.934 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T08:55:42.090 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T08:55:42.090 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T08:56:10.761 INFO [ 文件上传 ] 用户 #ylkawa 上传文件到 ./server/server_core/mohist 
+2021-11-20T09:17:32.928 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T09:17:32.928 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T09:27:24.574 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T09:27:24.715 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T09:27:24.715 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T09:27:50.684 INFO [ 文件上传 ] 用户 #ylkawa 上传文件到 ./server/server_core/mohist 
+2021-11-20T09:28:04.434 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T09:28:04.590 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T09:28:04.606 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T09:29:03.041 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T09:29:03.041 INFO Minecraft Server start - mohist
+2021-11-20T09:29:03.041 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T09:29:03.041 INFO ------------------------------- 
+2021-11-20T09:29:03.041 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server nogui 
+2021-11-20T09:29:03.041 INFO 根: ./server/server_core/mohist 
+2021-11-20T09:29:03.041 INFO ------------------------------- 
+2021-11-20T09:29:03.181 INFO [mohist] >>> 进程创建 
+2021-11-20T09:29:03.244 INFO [mohist] >>> 进程退出 
+2021-11-20T09:29:06.134 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T09:29:08.947 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T09:29:08.947 INFO Minecraft Server start - mohist
+2021-11-20T09:29:08.947 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T09:29:08.947 INFO ------------------------------- 
+2021-11-20T09:29:08.947 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server nogui 
+2021-11-20T09:29:08.947 INFO 根: ./server/server_core/mohist 
+2021-11-20T09:29:08.947 INFO ------------------------------- 
+2021-11-20T09:29:08.962 INFO [mohist] >>> 进程创建 
+2021-11-20T09:29:09.025 INFO [mohist] >>> 进程退出 
+2021-11-20T09:29:38.820 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T09:29:40.132 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T09:29:40.132 INFO Minecraft Server start - mohist
+2021-11-20T09:29:40.132 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T09:29:40.132 INFO ------------------------------- 
+2021-11-20T09:29:40.132 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T09:29:40.132 INFO 根: ./server/server_core/mohist 
+2021-11-20T09:29:40.132 INFO ------------------------------- 
+2021-11-20T09:29:40.132 INFO [mohist] >>> 进程创建 
+2021-11-20T09:29:40.210 INFO [mohist] >>> 进程退出 
+2021-11-20T09:30:26.261 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T09:30:27.042 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T09:30:27.042 INFO Minecraft Server start - mohist
+2021-11-20T09:30:27.042 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T09:30:27.042 INFO ------------------------------- 
+2021-11-20T09:30:27.042 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T09:30:27.042 INFO 根: ./server/server_core/mohist 
+2021-11-20T09:30:27.042 INFO ------------------------------- 
+2021-11-20T09:30:27.042 INFO [mohist] >>> 进程创建 
+2021-11-20T09:36:52.005 INFO [mohist] >>> 进程退出 
+2021-11-20T09:36:52.145 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T09:38:38.107 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T09:38:38.107 INFO Minecraft Server start - mohist
+2021-11-20T09:38:38.107 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T09:38:38.107 INFO ------------------------------- 
+2021-11-20T09:38:38.107 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T09:38:38.107 INFO 根: ./server/server_core/mohist 
+2021-11-20T09:38:38.107 INFO ------------------------------- 
+2021-11-20T09:38:38.279 INFO [mohist] >>> 进程创建 
+2021-11-20T09:38:45.904 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T09:43:51.141 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T09:46:32.409 INFO [mohist] >>> 进程退出 
+2021-11-20T09:49:58.439 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T10:33:39.944 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T10:33:40.288 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T10:33:40.288 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T10:33:50.116 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T10:33:50.116 INFO Minecraft Server start - mohist
+2021-11-20T10:33:50.116 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T10:33:50.116 INFO ------------------------------- 
+2021-11-20T10:33:50.116 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T10:33:50.116 INFO 根: ./server/server_core/mohist 
+2021-11-20T10:33:50.116 INFO ------------------------------- 
+2021-11-20T10:33:50.272 INFO [mohist] >>> 进程创建 
+2021-11-20T11:02:49.133 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T11:24:55.374 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T11:24:55.375 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T11:26:08.146 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T11:26:08.297 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T11:26:08.298 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T11:26:36.689 INFO [mohist] >>> 进程退出 
+2021-11-20T11:26:39.876 INFO Minecraft Server start - mohist
+2021-11-20T11:26:39.876 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T11:26:39.876 INFO ------------------------------- 
+2021-11-20T11:26:39.876 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T11:26:39.876 INFO 根: ./server/server_core/mohist 
+2021-11-20T11:26:39.876 INFO ------------------------------- 
+2021-11-20T11:26:40.033 INFO [mohist] >>> 进程创建 
+2021-11-20T11:46:07.222 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:07:10.032 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T12:07:10.033 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T12:13:38.876 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:13:39.027 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T12:13:39.029 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:13:49.767 INFO [mohist] >>> 进程退出 
+2021-11-20T12:13:53.483 INFO Minecraft Server start - mohist
+2021-11-20T12:13:53.483 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T12:13:53.483 INFO ------------------------------- 
+2021-11-20T12:13:53.483 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T12:13:53.483 INFO 根: ./server/server_core/mohist 
+2021-11-20T12:13:53.483 INFO ------------------------------- 
+2021-11-20T12:13:53.640 INFO [mohist] >>> 进程创建 
+2021-11-20T12:15:04.291 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T12:27:55.125 INFO [mohist] >>> 进程退出 
+2021-11-20T12:28:23.313 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T12:28:23.328 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T12:28:24.079 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:28:24.235 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T12:28:24.235 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:28:47.704 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-20T12:28:55.785 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:29:01.207 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:29:04.644 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T12:29:04.644 INFO Minecraft Server start - mohist
+2021-11-20T12:29:04.644 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T12:29:04.644 INFO ------------------------------- 
+2021-11-20T12:29:04.644 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T12:29:04.644 INFO 根: ./server/server_core/mohist 
+2021-11-20T12:29:04.644 INFO ------------------------------- 
+2021-11-20T12:29:04.821 INFO [mohist] >>> 进程创建 
+2021-11-20T12:30:22.630 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T12:30:22.761 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T12:30:26.636 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:30:27.176 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ IiWDFFzPdtUqN0gcV-2kD6UQtL5XlRU1 ] 
+2021-11-20T12:30:27.294 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:30:44.326 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:31:14.946 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T12:31:18.116 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-20T12:32:01.139 INFO [mohist] >>> 进程退出 
+2021-11-20T12:33:22.980 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T12:33:22.980 INFO Minecraft Server start - mohist
+2021-11-20T12:33:22.980 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T12:33:22.980 INFO ------------------------------- 
+2021-11-20T12:33:22.980 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T12:33:22.980 INFO 根: ./server/server_core/mohist 
+2021-11-20T12:33:22.980 INFO ------------------------------- 
+2021-11-20T12:33:22.995 INFO [mohist] >>> 进程创建 
+2021-11-20T12:34:54.573 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:34:56.487 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ IiWDFFzPdtUqN0gcV-2kD6UQtL5XlRU1 ] 
+2021-11-20T12:34:57.514 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:34:58.604 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:36:28.992 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T12:38:42.511 INFO [mohist] >>> 进程退出 
+2021-11-20T12:38:50.581 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:38:50.675 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ IiWDFFzPdtUqN0gcV-2kD6UQtL5XlRU1 ] 
+2021-11-20T12:38:50.675 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:38:50.972 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:38:53.238 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:38:57.066 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T12:38:57.347 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T12:38:57.456 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ IiWDFFzPdtUqN0gcV-2kD6UQtL5XlRU1 ] 
+2021-11-20T12:38:57.456 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T12:38:57.722 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:39:08.972 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T12:39:12.003 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T12:39:12.003 INFO Minecraft Server start - mohist
+2021-11-20T12:39:12.003 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T12:39:12.003 INFO ------------------------------- 
+2021-11-20T12:39:12.003 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T12:39:12.003 INFO 根: ./server/server_core/mohist 
+2021-11-20T12:39:12.003 INFO ------------------------------- 
+2021-11-20T12:39:12.175 INFO [mohist] >>> 进程创建 
+2021-11-20T12:51:47.200 INFO [mohist] >>> 进程退出 
+2021-11-20T12:52:55.152 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T12:52:55.152 INFO Minecraft Server start - mohist
+2021-11-20T12:52:55.152 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T12:52:55.152 INFO ------------------------------- 
+2021-11-20T12:52:55.152 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T12:52:55.152 INFO 根: ./server/server_core/mohist 
+2021-11-20T12:52:55.152 INFO ------------------------------- 
+2021-11-20T12:52:55.324 INFO [mohist] >>> 进程创建 
+2021-11-20T12:52:56.512 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T12:53:07.803 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T13:03:24.920 INFO [mohist] >>> 进程退出 
+2021-11-20T13:03:28.154 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T13:03:28.154 INFO Minecraft Server start - mohist
+2021-11-20T13:03:28.154 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T13:03:28.154 INFO ------------------------------- 
+2021-11-20T13:03:28.154 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T13:03:28.154 INFO 根: ./server/server_core/mohist 
+2021-11-20T13:03:28.154 INFO ------------------------------- 
+2021-11-20T13:03:28.325 INFO [mohist] >>> 进程创建 
+2021-11-20T13:09:55.687 INFO [mohist] >>> 进程退出 
+2021-11-20T13:10:00.039 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-20T13:10:50.490 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T13:10:50.490 INFO Minecraft Server start - mohist
+2021-11-20T13:10:50.490 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T13:10:50.490 INFO ------------------------------- 
+2021-11-20T13:10:50.490 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T13:10:50.490 INFO 根: ./server/server_core/mohist 
+2021-11-20T13:10:50.490 INFO ------------------------------- 
+2021-11-20T13:10:50.490 INFO [mohist] >>> 进程创建 
+2021-11-20T13:10:53.348 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T13:27:57.426 INFO [mohist] >>> 进程退出 
+2021-11-20T13:28:04.733 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-20T13:32:26.734 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T13:32:26.736 INFO Minecraft Server start - mohist
+2021-11-20T13:32:26.736 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T13:32:26.736 INFO ------------------------------- 
+2021-11-20T13:32:26.737 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T13:32:26.738 INFO 根: ./server/server_core/mohist 
+2021-11-20T13:32:26.738 INFO ------------------------------- 
+2021-11-20T13:32:26.761 INFO [mohist] >>> 进程创建 
+2021-11-20T13:32:34.623 INFO [mohist] >>> 进程退出 
+2021-11-20T13:35:13.384 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T13:39:22.376 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T13:39:25.656 INFO Minecraft Server start - mohist
+2021-11-20T13:39:25.658 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T13:39:25.658 INFO ------------------------------- 
+2021-11-20T13:39:25.660 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T13:39:25.662 INFO 根: ./server/server_core/mohist 
+2021-11-20T13:39:25.663 INFO ------------------------------- 
+2021-11-20T13:39:29.627 INFO [mohist] >>> 进程创建 
+2021-11-20T13:40:42.181 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T13:41:05.221 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T13:42:28.166 INFO [mohist] >>> 进程退出 
+2021-11-20T13:45:44.676 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-20T13:46:34.867 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T13:46:34.867 INFO Minecraft Server start - mohist
+2021-11-20T13:46:34.884 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T13:46:34.884 INFO ------------------------------- 
+2021-11-20T13:46:34.884 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T13:46:34.884 INFO 根: ./server/server_core/mohist 
+2021-11-20T13:46:34.884 INFO ------------------------------- 
+2021-11-20T13:46:35.008 INFO [mohist] >>> 进程创建 
+2021-11-20T13:46:37.234 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T14:10:28.169 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T14:10:28.278 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ IiWDFFzPdtUqN0gcV-2kD6UQtL5XlRU1 ] 
+2021-11-20T14:10:28.278 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T14:10:53.869 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T14:10:53.869 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T14:11:12.571 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T14:11:57.227 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T14:11:57.384 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ TTv40iaSwq-93vgVlUb7sVwVDboKeNDj ] 
+2021-11-20T14:11:57.384 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T14:11:57.665 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T14:13:12.454 INFO [mohist] >>> 进程退出 
+2021-11-20T14:14:51.381 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T14:14:51.381 INFO Minecraft Server start - mohist
+2021-11-20T14:14:51.381 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T14:14:51.381 INFO ------------------------------- 
+2021-11-20T14:14:51.381 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T14:14:51.381 INFO 根: ./server/server_core/mohist 
+2021-11-20T14:14:51.381 INFO ------------------------------- 
+2021-11-20T14:14:51.522 INFO [mohist] >>> 进程创建 
+2021-11-20T14:14:54.342 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T14:19:40.995 INFO [mohist] >>> 进程退出 
+2021-11-20T14:22:25.250 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T14:22:25.250 INFO Minecraft Server start - mohist
+2021-11-20T14:22:25.250 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T14:22:25.265 INFO ------------------------------- 
+2021-11-20T14:22:25.265 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T14:22:25.265 INFO 根: ./server/server_core/mohist 
+2021-11-20T14:22:25.265 INFO ------------------------------- 
+2021-11-20T14:22:25.422 INFO [mohist] >>> 进程创建 
+2021-11-20T14:23:17.565 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-20T14:26:19.176 INFO [mohist] >>> 进程退出 
+2021-11-20T14:55:08.922 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T14:55:08.922 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T22:31:59.881 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-20T22:31:59.896 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-20T22:32:00.678 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T22:32:00.834 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ HiMOHHLgkga5lQSWBYHylrygj_-qRy1M ] 
+2021-11-20T22:32:00.834 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T22:33:40.511 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-20T22:33:40.511 INFO Minecraft Server start - mohist
+2021-11-20T22:33:40.511 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-20T22:33:40.511 INFO ------------------------------- 
+2021-11-20T22:33:40.528 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-20T22:33:40.528 INFO 根: ./server/server_core/mohist 
+2021-11-20T22:33:40.528 INFO ------------------------------- 
+2021-11-20T22:33:40.760 INFO [mohist] >>> 进程创建 
+2021-11-20T22:50:52.080 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-20T22:50:52.080 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T23:35:41.022 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-20T23:35:41.215 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ HiMOHHLgkga5lQSWBYHylrygj_-qRy1M ] 
+2021-11-20T23:35:41.216 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-20T23:36:25.648 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-20T23:59:59.008 INFO 自动更新新闻动态与最新消息
+2021-11-21T00:17:23.731 INFO [ Token ] 未登录用户   请求更新令牌 | 已经阻止 
+2021-11-21T10:22:36.078 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-21T10:22:36.089 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-21T10:22:36.788 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T10:22:36.936 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T10:22:36.937 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T10:25:04.145 INFO [mohist] >>> 进程退出 
+2021-11-21T10:26:36.437 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-21T10:26:36.437 INFO Minecraft Server start - mohist
+2021-11-21T10:26:36.437 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-21T10:26:36.437 INFO ------------------------------- 
+2021-11-21T10:26:36.437 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-21T10:26:36.437 INFO 根: ./server/server_core/mohist 
+2021-11-21T10:26:36.437 INFO ------------------------------- 
+2021-11-21T10:26:36.687 INFO [mohist] >>> 进程创建 
+2021-11-21T10:32:26.692 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-21T10:34:54.183 INFO [mohist] >>> 进程退出 
+2021-11-21T10:35:37.849 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-21T10:35:37.849 INFO Minecraft Server start - mohist
+2021-11-21T10:35:37.849 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-21T10:35:37.849 INFO ------------------------------- 
+2021-11-21T10:35:37.849 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-21T10:35:37.849 INFO 根: ./server/server_core/mohist 
+2021-11-21T10:35:37.849 INFO ------------------------------- 
+2021-11-21T10:35:38.036 INFO [mohist] >>> 进程创建 
+2021-11-21T10:45:31.351 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-21T10:45:31.352 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T10:50:08.621 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T10:50:08.792 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T10:50:08.797 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T10:50:09.085 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-21T11:02:20.002 INFO [mohist] >>> 进程退出 
+2021-11-21T11:02:56.877 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-21T11:02:56.877 INFO Minecraft Server start - mohist
+2021-11-21T11:02:56.877 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-21T11:02:56.877 INFO ------------------------------- 
+2021-11-21T11:02:56.877 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-21T11:02:56.877 INFO 根: ./server/server_core/mohist 
+2021-11-21T11:02:56.877 INFO ------------------------------- 
+2021-11-21T11:02:57.064 INFO [mohist] >>> 进程创建 
+2021-11-21T11:03:57.680 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-21T11:04:30.141 INFO [mohist] >>> 进程退出 
+2021-11-21T11:04:38.204 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-21T11:04:38.204 INFO Minecraft Server start - mohist
+2021-11-21T11:04:38.204 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-21T11:04:38.204 INFO ------------------------------- 
+2021-11-21T11:04:38.204 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-21T11:04:38.204 INFO 根: ./server/server_core/mohist 
+2021-11-21T11:04:38.204 INFO ------------------------------- 
+2021-11-21T11:04:38.204 INFO [mohist] >>> 进程创建 
+2021-11-21T11:09:25.768 INFO [mohist] >>> 进程退出 
+2021-11-21T11:11:30.116 INFO 用户  #ylkawa  正在启动  new_server_1773000  服务端实例... 
+2021-11-21T11:11:30.116 INFO Minecraft Server start - new_server_1773000
+2021-11-21T11:11:30.116 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-21T11:11:30.116 INFO ------------------------------- 
+2021-11-21T11:11:30.116 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-21T11:11:30.116 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-21T11:11:30.116 INFO ------------------------------- 
+2021-11-21T11:11:30.288 INFO [new_server_1773000] >>> 进程创建 
+2021-11-21T11:17:55.262 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-21T11:17:55.263 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T11:19:21.381 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T11:19:21.547 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T11:19:21.547 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T11:19:25.991 INFO [new_server_1773000] >>> 进程退出 
+2021-11-21T11:19:40.210 INFO 用户  #ylkawa  正在启动  new_server_1773000  服务端实例... 
+2021-11-21T11:19:40.210 INFO Minecraft Server start - new_server_1773000
+2021-11-21T11:19:40.210 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-21T11:19:40.210 INFO ------------------------------- 
+2021-11-21T11:19:40.226 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-21T11:19:40.226 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-21T11:19:40.226 INFO ------------------------------- 
+2021-11-21T11:19:40.382 INFO [new_server_1773000] >>> 进程创建 
+2021-11-21T11:39:47.471 INFO [Online Fs] 用户 #ylkawa 访问服务器 new_server_1773000 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\new_server_1773000 
+2021-11-21T11:48:44.463 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-21T11:48:44.464 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T12:31:29.908 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T12:31:30.068 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T12:31:30.069 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T12:53:50.137 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-21T12:53:50.140 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T13:20:02.510 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T13:20:02.663 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T13:20:02.664 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T13:23:26.583 INFO [new_server_1773000] >>> 进程退出 
+2021-11-21T13:23:31.021 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-21T13:23:31.021 INFO Minecraft Server start - mohist
+2021-11-21T13:23:31.021 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-21T13:23:31.021 INFO ------------------------------- 
+2021-11-21T13:23:31.036 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-21T13:23:31.036 INFO 根: ./server/server_core/mohist 
+2021-11-21T13:23:31.036 INFO ------------------------------- 
+2021-11-21T13:23:31.193 INFO [mohist] >>> 进程创建 
+2021-11-21T13:23:59.540 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T13:24:00.291 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-21T13:24:00.526 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Ulfg4z9L9YieV0PBG20ucY5NDhBYUDgN ] 
+2021-11-21T13:24:00.621 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-21T13:46:32.988 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-21T13:46:32.990 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-21T23:59:59.009 INFO 自动更新新闻动态与最新消息
+2021-11-22T23:59:59.004 INFO 自动更新新闻动态与最新消息
+2021-11-23T23:59:59.006 INFO 自动更新新闻动态与最新消息
+2021-11-24T23:59:59.006 INFO 自动更新新闻动态与最新消息
+2021-11-25T23:59:59.006 INFO 自动更新新闻动态与最新消息
+2021-11-26T19:58:00.697 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-26T19:58:00.791 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-26T19:58:01.598 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-26T19:58:01.777 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ UPpMxKvN85yb_ek4o0-ttqw99T4vVCFd ] 
+2021-11-26T19:58:01.779 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-26T19:58:23.657 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-26T20:06:16.619 INFO [ Token ] 未登录用户   请求更新令牌 | 已经阻止 
+2021-11-26T23:59:59.006 INFO 自动更新新闻动态与最新消息
+2021-11-27T12:09:06.219 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-27T12:09:06.229 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-27T12:09:07.699 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-27T12:09:07.928 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 19fO-wzYfrwQ4EkV6PdkiEy4m1k5gkBd ] 
+2021-11-27T12:09:07.930 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-27T12:10:09.959 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-27T14:35:25.912 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-27T14:35:26.013 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 19fO-wzYfrwQ4EkV6PdkiEy4m1k5gkBd ] 
+2021-11-27T14:35:26.014 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-27T14:35:40.346 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-27T23:59:59.006 INFO 自动更新新闻动态与最新消息
+2021-11-28T11:09:32.743 INFO [ Token ] 未登录用户   请求更新令牌 | 已经阻止 
+2021-11-28T11:55:45.434 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-28T11:55:45.444 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-28T11:55:46.468 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-28T11:55:46.748 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 2i20hCWlLWUkUrV9d-C6eEItScuFwNBd ] 
+2021-11-28T11:55:46.756 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-28T11:56:02.200 INFO [mohist] >>> 进程退出 
+2021-11-28T11:56:22.035 INFO [Online Fs] 用户 #ylkawa 访问服务器 new_server_1773000 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\new_server_1773000 
+2021-11-28T11:56:36.151 INFO 用户  #ylkawa  正在启动  new_server_1773000  服务端实例... 
+2021-11-28T11:56:36.151 INFO Minecraft Server start - new_server_1773000
+2021-11-28T11:56:36.151 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-28T11:56:36.167 INFO ------------------------------- 
+2021-11-28T11:56:36.198 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-28T11:56:36.198 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-28T11:56:36.198 INFO ------------------------------- 
+2021-11-28T11:56:36.901 INFO [new_server_1773000] >>> 进程创建 
+2021-11-28T12:00:18.175 INFO [new_server_1773000] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-28T12:00:39.623 INFO [new_server_1773000] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-28T12:01:08.447 INFO [Online Fs] 用户 #ylkawa 访问服务器 mohist 根: C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\server\server_core\mohist 
+2021-11-28T12:02:22.246 INFO [new_server_1773000] >>> 进程退出 
+2021-11-28T12:03:53.298 INFO 用户  #ylkawa  正在启动  mohist  服务端实例... 
+2021-11-28T12:03:53.298 INFO Minecraft Server start - mohist
+2021-11-28T12:03:53.298 INFO 服务器 [ mohist ] 启动进程: 
+2021-11-28T12:03:53.298 INFO ------------------------------- 
+2021-11-28T12:03:53.298 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.imylk.top/api/yggdrasil -jar mohist-1.16.5-853-server.jar nogui 
+2021-11-28T12:03:53.298 INFO 根: ./server/server_core/mohist 
+2021-11-28T12:03:53.298 INFO ------------------------------- 
+2021-11-28T12:03:53.489 INFO [mohist] >>> 进程创建 
+2021-11-28T12:05:27.203 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-28T12:08:46.134 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-28T12:41:20.972 INFO [ WebSocket HBPackage ] 用户 #ylkawa 长时间未响应心跳包 | 已自动断开 
+2021-11-28T12:41:20.976 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-28T12:41:22.251 ERROR WebSocket 请求处理时异常:
+2021-11-28T12:41:22.295 ERROR TypeError: Cannot read property 'login' of null
+    at WebSocket.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\route\websocket.js:137:22)
+    at WebSocket.emit (events.js:321:20)
+    at Receiver.receiverOnMessage (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\websocket.js:720:20)
+    at Receiver.emit (events.js:321:20)
+    at Receiver.dataMessage (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:414:14)
+    at Receiver.getData (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:346:17)
+    at Receiver.startLoop (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:133:22)
+    at Receiver._write (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:69:10)
+    at doWrite (_stream_writable.js:441:12)
+    at writeOrBuffer (_stream_writable.js:425:5)
+2021-11-28T12:41:22.332 ERROR WebSocket 请求处理时异常:
+2021-11-28T12:41:22.333 ERROR TypeError: Cannot read property 'login' of null
+    at WebSocket.<anonymous> (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\route\websocket.js:137:22)
+    at WebSocket.emit (events.js:321:20)
+    at Receiver.receiverOnMessage (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\websocket.js:720:20)
+    at Receiver.emit (events.js:321:20)
+    at Receiver.dataMessage (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:414:14)
+    at Receiver.getData (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:346:17)
+    at Receiver.startLoop (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:133:22)
+    at Receiver._write (C:\Users\Administrator\Desktop\MCSManager_8.6.23_Win64\node_modules\ws\lib\receiver.js:69:10)
+    at doWrite (_stream_writable.js:441:12)
+    at writeOrBuffer (_stream_writable.js:425:5)
+2021-11-28T12:52:12.526 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-28T12:52:12.529 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-28T12:52:13.361 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-28T12:52:13.526 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Mn5EOLGbvD1OKc2THfrz4EIX-fM3pPDj ] 
+2021-11-28T12:52:13.529 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-28T12:52:52.381 INFO 用户 #ylkawa 建立 keo_rake 用户 
+2021-11-28T12:53:06.465 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-28T13:13:20.775 INFO 用户 ocero 正在尝试登录... 
+2021-11-28T13:13:20.777 INFO [ Login ] 用户: ocero 密匙错误 拒绝登录 
+2021-11-28T13:45:00.658 INFO 用户 #master 正在尝试登录... 
+2021-11-28T13:45:00.658 INFO [ Login ] 用户: #master 密匙错误 拒绝登录 
+2021-11-28T13:45:10.503 INFO 用户 #master 正在尝试登录... 
+2021-11-28T13:45:10.506 INFO [ Login ] 用户: #master 密匙错误 拒绝登录 
+2021-11-28T13:47:08.026 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-28T13:47:08.182 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Mn5EOLGbvD1OKc2THfrz4EIX-fM3pPDj ] 
+2021-11-28T13:47:08.203 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-28T13:47:28.435 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-28T13:48:54.773 INFO 用户 #master 正在尝试登录... 
+2021-11-28T13:48:54.776 INFO [ Login ] 用户: #master 密匙错误 拒绝登录 
+2021-11-28T14:01:12.078 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-28T14:01:12.271 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 2i20hCWlLWUkUrV9d-C6eEItScuFwNBd ] 
+2021-11-28T14:01:12.274 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-28T14:01:12.600 INFO [mohist] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-28T14:05:42.604 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-28T14:05:42.790 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ 2i20hCWlLWUkUrV9d-C6eEItScuFwNBd ] 
+2021-11-28T14:05:42.793 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-28T14:10:45.100 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-28T14:13:40.360 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-28T14:46:42.419 INFO 用户 #ocero 正在尝试登录... 
+2021-11-28T14:46:42.468 INFO [ Login ] 用户: #ocero 密匙正确 准许登录 
+2021-11-28T14:46:44.124 INFO [ Token ] 用户  #ocero  请求更新令牌 | 准许 
+2021-11-28T14:46:44.351 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ ewzcNdB0kAOMkSEJ4tbhYDyUt_sRfetD ] 
+2021-11-28T14:46:44.354 INFO [ WebSocket INIT ]  用户: #ocero 与服务器建立链接 
+2021-11-28T14:47:51.912 INFO 用户 #ocero 建立 fixbot 用户 

@@ -1,0 +1,119 @@
+2021-11-05T23:35:43.916 INFO 控制面板正在启动中... 
+2021-11-05T23:35:44.023 INFO OnlineFs - 正在初始化文件管理路由与中间件 
+2021-11-05T23:35:44.030 INFO Module - 正在初始化用户管理模块
+2021-11-05T23:35:44.035 INFO Module - 正在初始化服务端管理模块
+2021-11-05T23:35:44.038 INFO Module - 正在初始化计划任务模块
+2021-11-05T23:35:44.051 INFO HTTP - HTTP 模块监听: [ http://[33m127.0.0.1[39m:23333 ]
+2021-11-05T23:35:44.052 INFO 配置文件: property.js 文件
+2021-11-05T23:35:44.053 INFO 文档参阅: https://github.com/suwings/mcsmanager
+2021-11-05T23:35:44.053 INFO 控制面板已经启动
+2021-11-05T23:35:47.062 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:35:47.062 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:35:47.062 INFO ------------------------------- 
+2021-11-05T23:35:47.062 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:35:47.062 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:35:47.062 INFO ------------------------------- 
+2021-11-05T23:35:47.202 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:35:47.202 INFO 服务器new_server_1773000已自动启动
+2021-11-05T23:35:47.312 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:35:52.327 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:35:52.327 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:35:52.327 INFO ------------------------------- 
+2021-11-05T23:35:52.327 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:35:52.327 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:35:52.327 INFO ------------------------------- 
+2021-11-05T23:35:52.327 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:35:52.406 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:35:57.468 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:35:57.515 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:35:57.515 INFO ------------------------------- 
+2021-11-05T23:35:57.515 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:35:57.531 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:35:57.531 INFO ------------------------------- 
+2021-11-05T23:35:57.546 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:35:57.921 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:02.937 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:02.937 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:02.937 INFO ------------------------------- 
+2021-11-05T23:36:02.937 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:02.937 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:02.937 INFO ------------------------------- 
+2021-11-05T23:36:02.937 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:36:03.015 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:08.031 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:08.031 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:08.031 INFO ------------------------------- 
+2021-11-05T23:36:08.031 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:08.031 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:08.031 INFO ------------------------------- 
+2021-11-05T23:36:08.031 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:36:08.109 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:13.124 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:13.124 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:13.124 INFO ------------------------------- 
+2021-11-05T23:36:13.124 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:13.124 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:13.124 INFO ------------------------------- 
+2021-11-05T23:36:13.124 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:36:13.202 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:18.218 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:18.218 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:18.218 INFO ------------------------------- 
+2021-11-05T23:36:18.218 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:18.218 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:18.218 INFO ------------------------------- 
+2021-11-05T23:36:18.218 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:36:18.296 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:23.317 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:23.317 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:23.317 INFO ------------------------------- 
+2021-11-05T23:36:23.317 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:23.317 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:23.317 INFO ------------------------------- 
+2021-11-05T23:36:23.317 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:36:23.390 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:36:28.406 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:36:28.406 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:36:28.406 INFO ------------------------------- 
+2021-11-05T23:36:28.406 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:36:28.406 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:36:28.406 INFO ------------------------------- 
+2021-11-05T23:36:28.406 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:37:00.698 INFO [ Token ] 未登录用户   请求更新令牌 | 已经阻止 
+2021-11-05T23:37:04.140 INFO 用户 #ylkawa 正在尝试登录... 
+2021-11-05T23:37:04.776 INFO [ Login ] 用户: #ylkawa 密匙正确 准许登录 
+2021-11-05T23:37:06.089 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-05T23:37:06.800 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Q-RkTesXBYsydAdVIv7oXe7PDS8XK5Cq ] 
+2021-11-05T23:37:07.439 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 
+2021-11-05T23:37:12.393 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:37:18.279 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:37:18.499 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:37:18.694 INFO ------------------------------- 
+2021-11-05T23:37:18.902 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:37:19.107 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:37:19.347 INFO ------------------------------- 
+2021-11-05T23:37:19.746 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:37:27.464 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:37:34.002 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:37:34.204 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:37:35.509 INFO ------------------------------- 
+2021-11-05T23:37:37.312 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:37:38.821 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:37:39.445 INFO ------------------------------- 
+2021-11-05T23:37:40.426 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:37:46.410 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:41:35.758 INFO 用户  #ylkawa  正在启动  new_server_1773000  服务端实例... 
+2021-11-05T23:41:35.758 INFO Minecraft Server start - new_server_1773000
+2021-11-05T23:41:35.758 INFO 服务器 [ new_server_1773000 ] 启动进程: 
+2021-11-05T23:41:35.760 INFO ------------------------------- 
+2021-11-05T23:41:35.760 INFO 自定义参数启动:  java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar minecraft_server.1.16.5.jar nogui 
+2021-11-05T23:41:35.761 INFO 根: ./server/server_core/new_server_1773000 
+2021-11-05T23:41:35.761 INFO ------------------------------- 
+2021-11-05T23:41:35.773 INFO [new_server_1773000] >>> 进程创建 
+2021-11-05T23:41:59.494 INFO [new_server_1773000] >>> 进程退出 
+2021-11-05T23:44:47.353 INFO [new_server_1773000] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-05T23:45:10.061 INFO [new_server_1773000] >>> 准许用户 #ylkawa 控制台监听 
+2021-11-05T23:45:49.619 INFO [ WebSocket CLOSE ] 用户 #ylkawa 已经断开链接 
+2021-11-05T23:46:07.613 INFO [ Token ] 用户  #ylkawa  请求更新令牌 | 准许 
+2021-11-05T23:46:07.957 INFO [ WS CREATE ] 新的 Ws 创建 会话ID: [ Q-RkTesXBYsydAdVIv7oXe7PDS8XK5Cq ] 
+2021-11-05T23:46:07.958 INFO [ WebSocket INIT ]  用户: #ylkawa 与服务器建立链接 

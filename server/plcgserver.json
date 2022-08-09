@@ -1,0 +1,39 @@
+{
+    "__filename__": "./server/plcgserver.json",
+    "name": "plcgserver",
+    "createDate": "2021-11-20 0:10:52",
+    "lastDate": "2021-11-20 8:35:36",
+    "timeLimitDate": "",
+    "ie": "GBK",
+    "oe": "GBK",
+    "autoRestart": false,
+    "autoStart": false,
+    "schedule": [],
+    "dockerConfig": {
+        "dockerCommand": "docker run -i ${xmx} -v ${serverpath}:/mcsd/ ${ports} ${imagename} ${commande}",
+        "dockerImageName": "mcsd",
+        "dockerXmx": "",
+        "dockerPorts": "",
+        "isDocker": false
+    },
+    "mcpingConfig": {
+        "mcpingName": "",
+        "mcpingHost": "",
+        "mcpingPort": "",
+        "mcpingMotd": ""
+    },
+    "addCmd": [
+        ""
+    ],
+    "java": "C:\\Program Files\\Java\\jdk-11.0.12\\bin\\java.exe",
+    "jarName": "forge-1.16.5-36.2.9.jar",
+    "Xmx": "",
+    "Xms": "",
+    "cwd": "./server/server_core/plcgserver/",
+    "highCommande": "java -Xmx2048M -Xms2048M -javaagent:authlib-injector-1.1.38.jar=https://skin.warma.ren/api/yggdrasil -jar forge-1.16.5-36.2.9.jar nogui",
+    "stopCommand": "",
+    "run": false,
+    "currentPlayers": "--",
+    "maxPlayers": "--",
+    "serverName": "plcgserver"
+}
